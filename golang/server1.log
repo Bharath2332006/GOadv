@@ -1,0 +1,5 @@
+INFO: Server started successfully
+ERROR: Failed to connect to database
+INFO: Listening on port 8080
+ERROR: Disk quota exceeded
+INFO: Health check passed
