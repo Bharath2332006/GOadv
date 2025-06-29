@@ -1,0 +1,6 @@
+ERROR: Timeout occurred while processing request
+ERROR: Failed to connect to database
+ERROR: Missing configuration file
+ERROR: Network unreachable
+ERROR: Unauthorized access attempt detected
+ERROR: Disk quota exceeded
